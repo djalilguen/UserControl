@@ -1,0 +1,9 @@
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\Chrono\bin\Debug\Chrono.dll
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\Chrono\bin\Debug\Chrono.pdb
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\Chrono\obj\Debug\Chrono.csprojAssemblyReference.cache
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\Chrono\obj\Debug\Chrono.csproj.GenerateResource.cache
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\Chrono\obj\Debug\Chrono.csproj.CoreCompileInputs.cache
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\Chrono\obj\Debug\Chrono.dll
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\Chrono\obj\Debug\Chrono.pdb
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\Chrono\obj\Debug\Chrono.Properties.Resources.resources
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\Chrono\obj\Debug\Chrono.CompteARebours.resources

@@ -1,0 +1,13 @@
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\bin\Debug\DemoCompteARebours.exe.config
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\bin\Debug\DemoCompteARebours.exe
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\bin\Debug\DemoCompteARebours.pdb
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\bin\Debug\Chrono.dll
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\bin\Debug\Chrono.pdb
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\obj\Debug\DemoCompteARebours.csprojAssemblyReference.cache
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\obj\Debug\DemoCompteARebours.Properties.Resources.resources
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\obj\Debug\DemoCompteARebours.csproj.GenerateResource.cache
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\obj\Debug\DemoCompteARebours.csproj.CoreCompileInputs.cache
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\obj\Debug\DemoCompteARebours.csproj.CopyComplete
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\obj\Debug\DemoCompteARebours.exe
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\obj\Debug\DemoCompteARebours.pdb
+E:\Etudes\Bois de boulogne\Session 3\420-A12-BB gr.000261\Labos et exercices\TP1\DemoCompteARebours\obj\Debug\DemoCompteARebours.mainForm.resources
